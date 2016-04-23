@@ -1,0 +1,11 @@
+#profile_section{
+	width: 60%;
+	margin: auto;
+}
+
+#profile_section_picture{
+	width: 45%;
+	height: auto;
+	padding: 40px;
+	margin-left: 25%;
+}
